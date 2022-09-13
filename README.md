@@ -2,6 +2,7 @@
 the mixed-integer programming model for flexible job shop scheduling problem is solved by gurobi
 
 This project is the implement of baseline methods of our published paper "A Multi-action Deep Reinforcement Learning Framework for Flexible Job-shop Scheduling Problem". Paper link: https://www.sciencedirect.com/science/article/pii/S0957417422010624
+
 You can download form FJSP benchmark website https://github.com/leikun-starting/FJSP-benchmarks to test other FJSP instances.
 
 # Cite us
